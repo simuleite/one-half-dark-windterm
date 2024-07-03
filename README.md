@@ -10,11 +10,11 @@ Font is not included: Cascadia Mono PL SemiLight
 ![](Interface.png)
 
 ## Usage
-1. Download the files in the WindTerm\global\themes
+1. Download the files in the WindTerm/global/themes folder.
 
-2. Enable the theme
+2. Enable the theme:
 - Select Session > Preferences > Settings > Appaerance > one-half-dark
-- Or open Command Palette (Alt+;) > Application: Theme List > one-half-dark
+- *Or* open Command Palette (Alt+;) > Application: Theme List > one-half-dark
 
 ## Colour Reference
 ```
