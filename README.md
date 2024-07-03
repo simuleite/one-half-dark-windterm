@@ -1,5 +1,5 @@
 A simple One Half Dark theme for Windterm.
-Many place lack of replacement.
+Many places lack replacement.
 
 One Half Dark Theme:
 ```
