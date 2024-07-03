@@ -1,7 +1,22 @@
+# One Half Dark theme for Windterm
 A simple One Half Dark theme for Windterm.
+
 Many places lack replacement.
 
-One Half Dark Theme:
+## Interface 
+
+Font is not included: Cascadia Mono PL SemiLight
+
+![](Interface.png)
+
+## Usage
+1. Download the files in the WindTerm\global\themes
+
+2. Enable the theme
+- Select Session > Preferences > Settings > Appaerance > one-half-dark
+- Or open Command Palette (Alt+;) > Application: Theme List > one-half-dark
+
+## Colour Reference
 ```
 Black: #282C34
 BoldBlack: #5A6374
@@ -21,5 +36,5 @@ White: #DCDFE4
 BoldWhite: #DCDFE4
 ForegroundColour: #DCDFE4
 BackgroundColour: #282C34
-CursorColour: #FFFFFF
+CursorColour (Lack replacement): #FFFFFF
 ```
